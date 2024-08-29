@@ -10,7 +10,7 @@ The bands table stores information about the bands. It has two columns: id and n
 The albums table stores information about albums released by bands. It has four columns: id, name, release_year, and band_id. The band_id column is a foreign key referencing the id column in the bands table
 #### 2.3 Songs Table
 The songs table stores information about songs in each album. It has four columns: id, name, length, and album_id. The album_id column is a foreign key referencing the id column in the albums table.
-### Query
+### 3. Query
 1. Select only the names of all Bands from the songs table
 2. Select the oldest album.
 3. Get all the bands that have albums
