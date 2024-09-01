@@ -1,4 +1,4 @@
-# Analysis-with-SQL
+# Analysis-with-SQL: Capstone 2 Project
 Database Management System for a Fictional Music Company
 ## Record Company Database Documentation   
 ### 1. Database Creation
